@@ -76,7 +76,6 @@ Developed by:AKASH P RegisterNumber:24900264
 **Output/TIMING Waveform**
 ![392015423-bd3bffbb-9acd-4c36-ac75-bc913fca618b](https://github.com/user-attachments/assets/1d46510f-a24c-42de-8346-b7eacf29dd3a)
 ![392016705-c921e6c7-cf3b-48db-85f9-c97b50ed478c](https://github.com/user-attachments/assets/1dbb68c6-62ba-49f7-9096-8f59a04ea8ff)
-
 **Result:**
 The given gates are studied and the truthtables are varified.
 
